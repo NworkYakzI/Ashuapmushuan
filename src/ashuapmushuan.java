@@ -13,8 +13,6 @@ public class ashuapmushuan {
 		marvin.nom="Marvin";
 		nantucket.nom="Nantucket";
 		
-		
-		
 		System.out.println(">>> Voici les details des orignaux <<<");
 		alice.afficherDetails();
 		System.out.println("\n");
